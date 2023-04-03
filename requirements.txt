@@ -8,5 +8,5 @@ readability-lxml==0.8.1
 requests
 tiktoken==0.3.3
 docker
-googlesearch-python
+googlesearch-python==1.1.0
 # Googlesearch python seems to be a bit cursed, anyone good at fixing thigns like this?
